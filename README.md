@@ -2,14 +2,15 @@
 
 I am passionate about technology and criminology. I am a Computer Science student.
 
-- 🔭 In the future I want to work in cybersecurity
-- 🌱 I’m currently learning C language and cybersecurity
+-  In the future I want to work in cybersecurity
+-  I’m currently learning C and C++ languages
   
 ##
 
   <div style="display": inline_block><br> 
-   <img align="center" alt="Bia=Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Bia=C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+    <img align="center" alt="Bia-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Bia=Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Bia=R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
   </div>
 
